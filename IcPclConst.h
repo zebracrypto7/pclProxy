@@ -1,0 +1,12 @@
+#pragma once
+
+namespace IcPointCloudLibraryProxy{
+
+	public enum class IcPclResult {
+
+		IC_PCL_SUCCEED = 0,			// ê¨å˜
+		IC_PCL_FAILED,				// îƒópé∏îs
+
+	};
+
+}
