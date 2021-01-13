@@ -1,21 +1,21 @@
 ﻿========================================================================
-    ダイナミック リンク ライブラリ: IcPointCloudLibraryProxy プロジェクトの概要
+    ダイナミック リンク ライブラリ: PclProxy プロジェクトの概要
 ========================================================================
 
-この IcPointCloudLibraryProxy DLL は、AppWizard により作成されました。
+この PclProxy DLL は、AppWizard により作成されました。
 
-このファイルには、IcPointCloudLibraryProxy アプリケーションを構成する各ファイルの内容の概要が含まれています。
+このファイルには、PclProxy アプリケーションを構成する各ファイルの内容の概要が含まれています。
 
-IcPointCloudLibraryProxy.vcxproj
+PclProxy.vcxproj
     これは、アプリケーション ウィザードを使用して生成された VC++ プロジェクトのメイン プロジェクト ファイルです。ファイルを生成した Visual C++ のバージョンに関する情報と、アプリケーション ウィザードで選択されたプラットフォーム、構成、およびプロジェクト機能に関する情報が含まれています。
 
-IcPointCloudLibraryProxy.vcxproj.filters
+PclProxy.vcxproj.filters
     これは、アプリケーション ウィザードで生成された VC++ プロジェクトのフィルター ファイルです。このファイルには、プロジェクト内のファイルとフィルターとの間の関連付けに関する情報が含まれています。この関連付けは、特定のノードで同様の拡張子を持つファイルのグループ化を示すために IDE で使用されます (たとえば、".cpp" ファイルは "ソース ファイル" フィルターに関連付けられています)。
 
-IcPointCloudLibraryProxy.cpp
+PclProxy.cpp
     これは、メインの DLL ソース ファイルです。
 
-IcPointCloudLibraryProxy.h
+PclProxy.h
     このファイルには、クラス宣言が含まれています。
 
 AssemblyInfo.cpp
